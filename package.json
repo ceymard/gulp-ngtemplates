@@ -1,6 +1,6 @@
 {
   "name": "gulp-ngtemplates",
-  "description": "",
+  "description": "AngularJS template assembler for gulp",
   "version": "0.1.0",
   "homepage": "http://github.com/ceymard/gulp-ngtemplates",
   "repository": {
