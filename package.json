@@ -1,0 +1,29 @@
+{
+  "name": "gulp-ngtemplates",
+  "description": "",
+  "version": "0.1.0",
+  "homepage": "http://github.com/ceymard/gulp-ngtemplates",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ceymard/gulp-ngtemplates"
+  },
+  "author": {
+    "name": "Christophe Eymard",
+    "email": "christophe.eymard@gmail.com"
+  },
+  "main": "./ngtemplates.js",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "gulp-util": "~2.2.5",
+    "cheerio": "^0.13.1"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ceymard/gulp-ngtemplates/issues"
+  }
+}
